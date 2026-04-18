@@ -26,28 +26,4 @@ Overall, this task demonstrates how user behavior data can be analyzed to build 
 
 OUTPUT:
 
-User    Item     Rating
-A       Book     5
-A       Movie    4
-A       Laptop   5
-B       Book     4
-B       Laptop   4
-C       Movie    5
-C       Laptop   4
-D       Book     3
-D       Movie    5
-
-Item    Book    Laptop   Movie
-User
-A       5.0     5.0      4.0
-B       4.0     4.0      0.0
-C       0.0     4.0      5.0
-D       3.0     0.0      5.0
-
-User        A         B         C         D
-A       1.000000  0.870388  0.768946  0.738851
-B       0.870388  1.000000  0.441726  0.363803
-C       0.768946  0.441726  1.000000  0.669589
-D       0.738851  0.363803  0.669589  1.000000
-
-Recommendations for User B: ['Movie']
+<img width="474" height="506" alt="Image" src="https://github.com/user-attachments/assets/357db64d-8a87-401f-9caa-aa068198c262" />
